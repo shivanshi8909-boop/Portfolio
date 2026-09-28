@@ -32,7 +32,7 @@ const navItems = [
 const links = {
   github: "https://github.com/shivanshi8909-boop",
   linkedin: "https://www.linkedin.com/in/shivanshi-4a89b4390/?skipRedirect=true",
-  blindStick: "https://ai2a.appinventor.mit.edu/b/238j2",
+  blindStick: "https://ai2a.appinventor.mit.edu/b/46vdi",
   graphics: "https://github.com/shivanshi8909-boop/SHIVANSHI_R25EH122.git",
   certificate: "https://acrobat.adobe.com/id/urn:aaid:sc:ap:d3e4a965-5aea-40fb-b123-fde04f3bfed6",
 };
